@@ -71,4 +71,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
 # nestjs-tutorial-api
+
+npm i -g @nestjs/cli
+nest new nestjs-tutorial
+cd nestjs-tutorial
+nest generate module items
+nest generate controller items
+npm run start
+item.interface.ts
+nest generate service items
